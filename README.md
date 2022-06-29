@@ -4,7 +4,7 @@
 ## Project Description
 Make a weather app inspired by the beautiful designs made by
 [Olia Gozha](https://dribbble.com/shots/4663154-). 
-This app is able to find out the live weather data in the current location of the 
+This app is able to find out live weather data in the current location of the 
 device as well as the weather for any city you can think of!
 
 Splash Screen                                                                                                                                                                  |Location Permission Screen                                                                                                                                                                       |           **Home Screen**                                                                                                                                                                   | Location Screen                                                                                                                                                           |  Weather Home Screen                                                                                                                                    |
