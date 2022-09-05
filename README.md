@@ -23,6 +23,3 @@ Splash Screen                                                                   
 - Learn about the lifecycle of Stateful Widgets and how to override them.
 - Use Geolocator package to get live location data for both iOS and Android.
 
-#Credits
-- Followed the udemy course from Angela Yu (https://github.com/angelabauer)
-- Designs made by [Olia Gozha](https://dribbble.com/shots/4663154-)
